@@ -1,7 +1,10 @@
-<h1>Hi, I'm Erik! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="linkedin.com/in/erik-ausberry-26798a270/">Cybersecurity Professional</a>
+<h1>Hi, I'm Erik! <br/><a href="">Programmer</a>, <a href="linkedin.com/in/erik-ausberry-26798a270/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+
+
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/Cyber-Donelado/Sentinel-Lab)
+
   
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   
