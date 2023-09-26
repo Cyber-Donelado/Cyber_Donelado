@@ -1,5 +1,5 @@
 <h1>Hi, I'm Erik Ausberry!<h1>
-  <h2>Passionate about Information Security(InfoSec) | Aspiring Cybersecurity Analyst | Continuous Learner<br/><a href="">Cloud</a>, <a href="linkedin.com/in/erik-ausberry-26798a270/">Cybersecurity Professional</a>,<br/><a href="">IT Professional</a><h2>
+  <h2>Passionate about Information Security(InfoSec) | Aspiring Cybersecurity Analyst | Continuous Learner<br/><a href="">Cloud</a>, <a href="linkedin.com/in/erik-ausberry-26798a270/">Cybersecurity Professional</a>,<br/><a href="">Programmer</a><h2>
 <h3>🔭 About Me:
 I am an enthusiastic and driven individual with a burning passion for cybersecurity and information technology. My journey in the world of IT and information security began as a personal interest, and it has since grown into a full-fledged aspiration to contribute to the digital defense of organizations and individuals.<h3>🌱 Career Aspiration:
 My goal is to establish a career as a cybersecurity analyst, leveraging my technical skills and relentless curiosity to identify and mitigate security risks. I thrive on the dynamic nature of the cybersecurity landscape and am committed to staying updated with the latest threats, vulnerabilities, and best practices.<h3>
@@ -17,11 +17,11 @@ My goal is to establish a career as a cybersecurity analyst, leveraging my techn
 
 <h2>Certifications</h2>
 
-- Google Cybersecurity Certification
+- <a href="coursera.org/account/accomplishments/specialization/certificate/XLC3KWCXJMTY">Google Cybersecurity Certification</a>
 - Google Professional IT Support Certification
-- Learning Linux for LFCA Specialization
+- <a href="https://coursera.org/share/8e52f56a0e6bd587ed7b4738efa3a966">Learning Linux for LFCA Specialization</a>
 - Linux Professional Institute (LPI) Essentials
-- Intro to Fundamentals of Microsoft Azure
+- <a href="https://coursera.org/share/7ad02e0ddfcfaefece944f918f54a00a">Introduction to Microsoft Azure Cloud Services</a>
 
 <h2> 🤳 Connect with me:</h2>
 
