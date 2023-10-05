@@ -12,7 +12,7 @@ My goal is to establish a career as a cybersecurity analyst, leveraging my techn
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/Cyber-Donelado/Sentinel-Lab)
 
   
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [Active Directory Bulk User Creation](https://github.com/Cyber-Donelado/ActiveDirectory_PS)
 
   - [Python: Nmap Recon Tool](https://github.com/Cyber-Donelado/Recon_Tool/tree/main)
   
